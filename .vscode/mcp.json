@@ -1,0 +1,11 @@
+{
+    "servers": {
+        "gdrive": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@modelcontextprotocol/server-gdrive"
+            ]
+        }
+    }
+}
